@@ -8,6 +8,7 @@ export default {
   ],
   theme: {
     extend: {
+      //colors personolized
       colors: {
         background: "hsl(218, 23%, 16%)",
         foreground: "hsl(217, 19%, 24%)",
